@@ -20,7 +20,7 @@ namespace webshoppingonline.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult LienHe()
         {
             ViewBag.Message = "Your contact page.";
 
