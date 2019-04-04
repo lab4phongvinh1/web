@@ -13,7 +13,7 @@ namespace webshoppingonline.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult gioithieu()
         {
             ViewBag.Message = "Your application description page.";
 
